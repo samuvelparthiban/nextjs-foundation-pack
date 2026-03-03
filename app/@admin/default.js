@@ -1,0 +1,1 @@
+export default function Default(){ return <p>Admin Default Slot</p>; }

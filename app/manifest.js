@@ -1,0 +1,1 @@
+export default function manifest(){ return { name:'Enterprise App', short_name:'App' }; }
